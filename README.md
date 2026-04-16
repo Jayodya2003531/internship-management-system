@@ -1,5 +1,5 @@
 # Project Intern Management System using PHP/MySQL
-![dashboard](img/screenshots/Dashboard.png) 
+![dashboard](img/screenshots/home.png) 
 
 
 ## About This Project
@@ -18,8 +18,7 @@ This application can also be used for similar purposes such as managing projects
 * Program Progress Bar
 * User (CRUD Features)
 * company Settings
-* Filtering
-* Sorting
+
 and Many More..
 
 
@@ -34,8 +33,7 @@ and Many More..
 
 
 ## Screenshots
-*Home Page*
-![home](img/screenshots/home.png) 
+
 
 
 *Login Page*
@@ -51,7 +49,7 @@ and Many More..
 
 
 *company Dashboard Page*
-![settings](img/screenshots/Dashboard.png) 
+![settings](img/screenshots/company_dashboard.png) 
 
 
 ## How To Run
