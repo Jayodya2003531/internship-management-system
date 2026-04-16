@@ -34,20 +34,24 @@ and Many More..
 
 
 ## Screenshots
+*Home Page*
+![home](img/screenshots/home.png) 
+
+
 *Login Page*
 ![login](img/screenshots/Login.png) 
 
 
-*Filtering and Sorting functions*
-![filter-and-sort](img/screenshots/filterandsorting.png)
+*profile editing page*
+![filter-and-sort](img/screenshots/edit_prof.png)
 
 
-*Add-Edit-Read-Delete using Bootsrap Modals*
-![crud](img/screenshots/CRUD.png) 
+*student dashboard page*
+![crud](img/screenshots/student_dashboard.png) 
 
 
-*company Settings Page*
-![settings](img/screenshots/Settings.png) 
+*company Dashboard Page*
+![settings](img/screenshots/Dashboard.png) 
 
 
 ## How To Run
